@@ -5,7 +5,6 @@
 <h3  align="center">
 		✅ Status: concluído ✅
 </h3>
-<div align="center">
 
 ## :page_facing_up: Conteúdo
 
